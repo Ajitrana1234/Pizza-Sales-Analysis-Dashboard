@@ -1,5 +1,6 @@
 # Pizza-Sales-Analysis-Dashboard
 <a href="https://github.com/Ajitrana1234/Pizza-Sales-Analysis-Dashboard/blob/main/Pizza%20Sales%20Analysis%20Dashboard%20In%20Power%20BI.pbix">Dataset</a>
+
 The dashboard was built using the following tools and technologies:
 . Powe BI Desktop - Main data visualization platform used for report creations.
 . Power Query - Data Transformation and cleaning layer and preparing the data.
